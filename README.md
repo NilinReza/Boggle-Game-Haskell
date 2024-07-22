@@ -1,6 +1,6 @@
 # Boggle Solver in Haskell
 
-This is a Boggle solver implemented in Haskell. It finds all possible words on a given Boggle board.
+This is a Boggle solver implemented in Haskell. It finds all possible words on a given Boggle board using Lists and a Map to store the Boggle board and the found words respectively.
 
 ## How it works
 
